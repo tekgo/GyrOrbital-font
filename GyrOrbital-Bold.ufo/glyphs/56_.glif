@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="1">
+  <advance width="349.393509036"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="298.696754518" y="476" type="line" smooth="yes"/>
+      <point x="301.696754518" y="486"/>
+      <point x="294.696754518" y="497"/>
+      <point x="283.696754518" y="499" type="curve" smooth="yes"/>
+      <point x="273.696754518" y="502"/>
+      <point x="262.696754518" y="495"/>
+      <point x="260.696754518" y="484" type="curve" smooth="yes"/>
+      <point x="174.696754518" y="107" type="line"/>
+      <point x="88.6967545182" y="484" type="line" smooth="yes"/>
+      <point x="86.6967545182" y="495"/>
+      <point x="75.6967545182" y="502"/>
+      <point x="65.6967545182" y="499" type="curve" smooth="yes"/>
+      <point x="54.6967545182" y="497"/>
+      <point x="47.6967545182" y="486"/>
+      <point x="50.6967545182" y="476" type="curve" smooth="yes"/>
+      <point x="155.696754518" y="18" type="line"/>
+      <point x="155.696754518" y="13"/>
+      <point x="157.696754518" y="10"/>
+      <point x="159.696754518" y="8" type="curve"/>
+      <point x="159.696754518" y="7"/>
+      <point x="159.696754518" y="7"/>
+      <point x="159.696754518" y="7" type="curve"/>
+      <point x="160.696754518" y="6"/>
+      <point x="161.696754518" y="6"/>
+      <point x="161.696754518" y="5" type="curve"/>
+      <point x="165.696754518" y="2"/>
+      <point x="169.696754518" y="0"/>
+      <point x="173.696754518" y="0" type="curve"/>
+      <point x="176.696754518" y="-1"/>
+      <point x="182.696754518" y="1"/>
+      <point x="186.696754518" y="5" type="curve"/>
+      <point x="186.696754518" y="5"/>
+      <point x="187.696754518" y="5"/>
+      <point x="187.696754518" y="5" type="curve"/>
+      <point x="188.696754518" y="6"/>
+      <point x="188.696754518" y="6"/>
+      <point x="189.696754518" y="7" type="curve"/>
+      <point x="192.696754518" y="10"/>
+      <point x="193.696754518" y="14"/>
+      <point x="194.696754518" y="19" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>V</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>349.393509036</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

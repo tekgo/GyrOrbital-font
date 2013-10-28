@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="1">
+  <advance width="349.532813659"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="293.76640683" y="259" type="curve" smooth="yes"/>
+      <point x="288.76640683" y="261"/>
+      <point x="282.76640683" y="259"/>
+      <point x="280.76640683" y="254" type="curve" smooth="yes"/>
+      <point x="165.76640683" y="14" type="line" smooth="yes"/>
+      <point x="163.76640683" y="9"/>
+      <point x="165.76640683" y="3"/>
+      <point x="170.76640683" y="1" type="curve" smooth="yes"/>
+      <point x="175.76640683" y="-1"/>
+      <point x="181.76640683" y="1"/>
+      <point x="183.76640683" y="6" type="curve" smooth="yes"/>
+      <point x="298.76640683" y="246" type="line" smooth="yes"/>
+      <point x="300.76640683" y="251"/>
+      <point x="298.76640683" y="257"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>3B</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>349.532813659</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
